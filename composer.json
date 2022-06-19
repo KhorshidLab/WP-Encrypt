@@ -2,7 +2,7 @@
     "name": "khorshid/wp-encrypt",
     "description": "Encrypts and decrypts data using the WordPress SALT and OpenSSL",
     "keywords": ["encrypt", "encryption", "decrypt", "decryption", "wp-encrypt"],
-    "license": "MIT",
+    "license": ["GPL-3.0-or-later"],
   
     "authors": [
       {
